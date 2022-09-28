@@ -62,3 +62,8 @@ Create your migrations.
 - `Role#understudy` returns the second instance of the audition that was hired for this role or returns a string 'no actor has been hired for understudy for this role'
 
 
+first_aud = Audition.first
+second_aud = Audition.second
+
+first_role = Role.first
+second_role = Role.second
