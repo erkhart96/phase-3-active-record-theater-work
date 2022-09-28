@@ -67,3 +67,12 @@ second_aud = Audition.second
 
 first_role = Role.first
 second_role = Role.second
+
+rake db:create_migration NAME=create_auditions
+add t.strings etc to new file
+
+rake db:migrate
+then afterwards migrate
+
+rake db:seed
+after adding data to seeds.db (Role.create(), Audiiton.create())
