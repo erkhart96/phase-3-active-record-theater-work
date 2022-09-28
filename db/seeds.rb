@@ -16,4 +16,4 @@ Audition.create(actor: 'Abby', location: 'Alabama', phone: '5559384', hired: fal
 Audition.create(actor: 'Lucy', location: 'Alabama', phone: '5559384', hired: false, role_id: 3)
 Audition.create(actor: 'Gracie', location: 'Alabama', phone: '5559384', hired: false, role_id: 4)
 Audition.create(actor: 'Riley', location: 'Crate', phone: '5559384', hired: false, role_id: 5)
-Audition.create(actor: 'Ben', location: 'Crate', phone: '5559384', hired: false, role_id: 6)
+Audition.create(actor: 'Honey', location: 'Crate', phone: '5559384', hired: false, role_id: 6)
